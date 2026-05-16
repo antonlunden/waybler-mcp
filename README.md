@@ -19,7 +19,7 @@ Add to your MCP client configuration:
   "mcpServers": {
     "waybler": {
       "command": "docker",
-      "args": ["run", "-i", "--rm", "-e", "WAYBLER_EMAIL", "-e", "WAYBLER_PASSWORD", "ghcr.io/anton-lunden/waybler-mcp"],
+      "args": ["run", "-i", "--rm", "-e", "WAYBLER_EMAIL", "-e", "WAYBLER_PASSWORD", "ghcr.io/antonlunden/waybler-mcp"],
       "env": {
         "WAYBLER_EMAIL": "your-email@example.com",
         "WAYBLER_PASSWORD": "your-password"

@@ -5,11 +5,11 @@
   "author": "Anton Lundén",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anton-lunden/waybler-mcp.git"
+    "url": "git+https://github.com/antonlunden/waybler-mcp.git"
   },
-  "homepage": "https://github.com/anton-lunden/waybler-mcp#readme",
+  "homepage": "https://github.com/antonlunden/waybler-mcp#readme",
   "bugs": {
-    "url": "https://github.com/anton-lunden/waybler-mcp/issues"
+    "url": "https://github.com/antonlunden/waybler-mcp/issues"
   },
   "engines": {
     "node": ">=22"
